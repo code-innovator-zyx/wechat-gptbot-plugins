@@ -1,0 +1,8 @@
+{
+  "routes": [
+    {
+      "src": "/api/customized-steps",
+      "dest": "/api/zepplife.go"
+    }
+  ]
+}
